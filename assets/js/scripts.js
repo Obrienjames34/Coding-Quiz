@@ -27,6 +27,8 @@ var quizData = [
         correctAns: 3
     }
 ];
+
+
 var time = 60;
 var timer;
 var display = document.querySelector("#time");
